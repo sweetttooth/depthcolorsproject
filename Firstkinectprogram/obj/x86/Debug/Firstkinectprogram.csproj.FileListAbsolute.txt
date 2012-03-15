@@ -1,0 +1,16 @@
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\bin\Debug\Firstkinectprogram.exe
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\bin\Debug\Firstkinectprogram.pdb
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\obj\x86\Debug\MainWindow.baml
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\obj\x86\Debug\MainWindow.g.cs
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\obj\x86\Debug\App.g.cs
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\obj\x86\Debug\Firstkinectprogram_MarkupCompile.cache
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\obj\x86\Debug\Firstkinectprogram.g.resources
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\obj\x86\Debug\Firstkinectprogram.exe
+C:\Users\J\documents\visual studio 2010\Projects\Firstkinectprogram\Firstkinectprogram\obj\x86\Debug\Firstkinectprogram.pdb
